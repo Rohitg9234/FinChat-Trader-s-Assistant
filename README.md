@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourname/FinChat-Trader-s-Assistant/stargazers"><img src="https://img.shields.io/github/stars/yourname/FinChat-Trader-s-Assistant?style=social" alt="GitHub stars"></a>
-  <a href="https://github.com/yourname/FinChat-Trader-s-Assistant/actions"><img src="https://img.shields.io/github/actions/workflow/status/yourname/FinChat-Trader-s-Assistant/ci.yml?label=CI" alt="CI"></a>
+  <a href="https://github.com/Rohitg9234/FinChat-Trader-s-Assistant/stargazers"><img src="https://img.shields.io/github/stars/Rohitg9234/FinChat-Trader-s-Assistant?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/Rohitg9234FinChat-Trader-s-Assistant/actions"><img src="https://img.shields.io/github/actions/workflow/status/Rohitg9234/FinChat-Trader-s-Assistant/ci.yml?label=CI" alt="CI"></a>
   <img src="https://img.shields.io/badge/Streamlit-1.x-brightgreen" alt="Streamlit">
   <img src="https://img.shields.io/badge/Python-3.11-blue" alt="Python 3.11">
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="MIT License">
@@ -34,7 +34,7 @@
 
 ```bash
 # 1) Clone & enter
-git clone https://github.com/yourname/FinChat-Trader-s-Assistant.git
+git clone https://github.com/Rohitg9234/FinChat-Trader-s-Assistant.git
 cd FinChat-Trader-s-Assistant
 
 # 2) Conda env (Python 3.11)
